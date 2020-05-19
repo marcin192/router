@@ -26,7 +26,6 @@ int main()
         parent=matches2.str()[10];
         text2=matches2.suffix().str();
     }
-    std::cout<<parent;
     int h =1000;
     int mina=6;
     char tempf;
