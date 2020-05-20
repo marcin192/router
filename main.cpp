@@ -8,7 +8,7 @@
 
 int main()
 {
-    //std::ifstream file("C:\\Users\\marcin\\Documents\\build-router-Desktop_Qt_5_14_2_MinGW_64_bit-Debug\\debug\\file2.txt");
+    //std::ifstream file("file2.txt");
     //std::string strin;
     //std::string strin2;
     //std::string dump;
